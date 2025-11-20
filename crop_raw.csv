@@ -1,0 +1,101 @@
+State,District ,Crop,Crop_Year,Season,Area ,Production,Yield
+Nagaland,PHEK,Tapioca,2017,Kharif     ,180.0,3650.0,20.28
+Andhra Pradesh,RANGAREDDI,Banana,2005,Whole Year ,40.0,836.0,20.9
+Assam,JORHAT,Sweet potato,2011,Whole Year ,74.0,244.0,3.3
+Jammu and Kashmir,UDHAMPUR,Rapeseed &Mustard,2006,Rabi       ,2833.0,2079.0,0.73
+Nagaland,PHEK,Tapioca,2019,Kharif     ,200.0,4052.0,20.26
+Rajasthan,BANSWARA,Masoor,2008,Rabi       ,5.0,4.0,0.8
+West Bengal,HOOGHLY,Peas & beans (Pulses),2004,Rabi       ,554.0,414.0,0.75
+Uttar Pradesh,AMETHI,Coriander,2012,Rabi       ,29.0,15.0,0.52
+West Bengal,PURULIA,Linseed,2011,Rabi       ,417.0,80.0,0.19
+West Bengal,HOWRAH,Coconut ,2007,Whole Year ,2895.0,30687000.0,10600.0
+Uttarakhand,ALMORA,Barley,2014,Rabi       ,2692.0,2778.0,1.03
+Nagaland,WOKHA,Castor seed,1999,Kharif     ,220.0,160.0,0.73
+Rajasthan,KOTA,Cotton(lint),2010,Kharif     ,2.0,6.0,2.94
+Uttarakhand,HARIDWAR,Gram,2003,Rabi       ,28.0,22.0,0.79
+Tamil Nadu,KANCHIPURAM,Maize,2006,Whole Year ,5.0,13.0,2.6
+Assam,GOLAGHAT,Tapioca,1998,Whole Year ,7.0,28.0,4.0
+West Bengal,BIRBHUM,Masoor,2011,Rabi       ,5803.0,3658.0,0.63
+Andhra Pradesh,KADAPA,Arhar/Tur,2018,Rabi       ,121.0,17.0,0.14
+Bihar,SUPAUL,Groundnut,2012,Kharif     ,10.0,10.0,1.0
+Madhya Pradesh,REWA,Maize,2010,Kharif     ,1161.0,837.0,0.72
+Madhya Pradesh,BURHANPUR,Banana,2009,Whole Year ,7336.0,467962.0,63.79
+Uttar Pradesh,UNNAO,Linseed,2010,Rabi       ,81.0,37.0,0.46
+Gujarat,KHEDA,Castor seed,2006,Kharif     ,7900.0,11900.0,1.51
+West Bengal,BANKURA,Rice,2013,Autumn     ,19717.0,50308.0,2.55
+Bihar,PURBI CHAMPARAN,Peas & beans (Pulses),2015,Rabi       ,223.0,235.0,1.05
+Andhra Pradesh,MAHBUBNAGAR,Groundnut,1999,Kharif     ,90584.0,31704.0,0.35
+Madhya Pradesh,DHAR,Peas & beans (Pulses),2008,Rabi       ,789.0,315.0,0.4
+Bihar,MADHUBANI,Sesamum,2011,Kharif     ,223.0,199.0,0.89
+Rajasthan,KOTA,Dry chillies,2013,Whole Year ,14.0,8.0,0.57
+Andhra Pradesh,CHITTOOR,Rice,2005,Kharif     ,16240.0,37173.0,2.29
+West Bengal,DINAJPUR UTTAR,Turmeric,2005,Whole Year ,1088.0,2040.0,1.88
+Bihar,MADHUBANI,Moong(Green Gram),2004,Summer     ,10725.0,6199.0,0.58
+Kerala,PATHANAMTHITTA,Tapioca,2001,Whole Year ,8833.0,199315.0,22.56
+Madhya Pradesh,KHANDWA,Banana,2010,Whole Year ,17.0,752.0,44.24
+Tamil Nadu,TUTICORIN,Small millets,2016,Rabi       ,21.0,18.0,0.86
+Tripura,SOUTH TRIPURA,Cotton(lint),2000,Kharif     ,195.0,286.0,1.47
+Chhattisgarh,BILASPUR,Ginger,2004,Whole Year ,48.0,50.0,1.04
+Tamil Nadu,TUTICORIN,Turmeric,2007,Whole Year ,4.0,21.0,5.25
+Maharashtra,AHMEDNAGAR,Gram,2015,Rabi       ,135100.0,54300.0,0.4
+Maharashtra,AMRAVATI,Soyabean,2014,Kharif     ,370600.0,128300.0,0.35
+Uttar Pradesh,ALIGARH,Potato,2017,Rabi       ,23332.0,761370.0,32.63
+Nagaland,MOKOKCHUNG,Moong(Green Gram),2014,Kharif     ,40.0,40.0,1.0
+Madhya Pradesh,KHARGONE,Rapeseed &Mustard,2005,Rabi       ,26.0,12.0,0.46
+Uttar Pradesh,AMBEDKAR NAGAR,Maize,2010,Summer     ,258.0,378.0,1.47
+Madhya Pradesh,ALIRAJPUR,Moong(Green Gram),2019,Summer     ,153.0,92.0,0.6
+Rajasthan,BARAN,Other  Rabi pulses,2015,Rabi       ,61.0,87.0,1.43
+Tamil Nadu,THIRUVARUR,Groundnut,2007,Whole Year ,7888.0,17349.0,2.2
+Bihar,SIWAN,Sesamum,2000,Kharif     ,135.0,75.0,0.56
+Uttar Pradesh,MAU,Maize,2011,Rabi       ,2.0,4.0,2.0
+Uttarakhand,BAGESHWAR,Peas & beans (Pulses),2014,Rabi       ,3.0,2.0,0.67
+Madhya Pradesh,BHIND,Safflower,2016,Rabi       ,1450.0,940.0,0.65
+Madhya Pradesh,RAISEN,Moong(Green Gram),2014,Kharif     ,2000.0,1000.0,0.5
+Tamil Nadu,TIRUNELVELI,Sunflower,2016,Rabi       ,12.0,3.0,0.25
+Madhya Pradesh,MANDSAUR,Sugarcane,1999,Whole Year ,24.0,1130.0,47.08
+Maharashtra,AKOLA,Sesamum,2015,Kharif     ,1000.0,100.0,0.1
+Uttarakhand,UTTAR KASHI,Rice,2017,Kharif     ,10249.0,17572.0,1.71
+Karnataka,CHITRADURGA,Sunflower,2019,Rabi       ,235.0,186.0,0.79
+Tamil Nadu,DHARMAPURI,Arhar/Tur,2008,Whole Year ,1296.0,828.0,0.64
+Uttar Pradesh,SONBHADRA,Small millets,2009,Kharif     ,4524.0,2394.0,0.53
+Madhya Pradesh,SATNA,Dry chillies,2009,Whole Year ,594.0,453.0,0.76
+Bihar,SHEOHAR,Dry chillies,2001,Whole Year ,2.0,1.0,0.5
+Karnataka,UTTARA KANNADA,Linseed,2006,Rabi       ,2.0,1.0,0.5
+Karnataka,CHAMARAJANAGARA,Sesamum,2015,Kharif     ,791.0,168.0,0.21
+West Bengal,BANKURA,Dry chillies,1999,Rabi       ,841.0,920.0,1.09
+Karnataka,UDUPI,Tapioca,2000,Whole Year ,73.0,573.0,7.85
+Maharashtra,NASHIK,Maize,2013,Rabi       ,1700.0,5800.0,3.41
+Madhya Pradesh,DAMOH,Dry chillies,2017,Whole Year ,85.0,213.0,2.5
+Punjab,JALANDHAR,Sesamum,2007,Kharif     ,600.0,300.0,0.5
+Karnataka,BELAGAVI,Garlic,2013,Whole Year ,648.0,1309.0,2.02
+Rajasthan,BUNDI,Urad,2003,Kharif     ,27543.0,17881.0,0.65
+Uttar Pradesh,BUDAUN,Maize,2010,Kharif     ,12315.0,23632.0,1.92
+Sikkim,SOUTH DISTRICT,Maize,2011,Kharif     ,14290.0,23370.0,1.64
+Uttarakhand,CHAMPAWAT,Garlic,2014,Whole Year ,153.0,213.0,1.39
+Kerala,PATHANAMTHITTA,Cardamom,2009,Whole Year ,664.0,11.0,0.02
+Uttarakhand,TEHRI GARHWAL,Soyabean,2000,Kharif     ,693.0,416.0,0.6
+Uttar Pradesh,MORADABAD,Moong(Green Gram),1997,Kharif     ,80.0,23.0,0.29
+Mizoram,MAMIT,Arhar/Tur,2003,Kharif     ,24.0,28.0,1.17
+Uttar Pradesh,SAMBHAL,Bajra,2015,Kharif     ,71790.0,103449.0,1.44
+West Bengal,JALPAIGURI,Rice,2009,Winter     ,174718.0,339125.0,1.94
+Odisha,CUTTACK,Urad,1998,Autumn     ,15.0,3.0,0.2
+Bihar,LAKHISARAI,Arhar/Tur,2009,Kharif     ,184.0,323.0,1.76
+Uttar Pradesh,BAHRAICH,Maize,1999,Rabi       ,346.0,501.0,1.45
+Chhattisgarh,BASTAR,Bajra,2001,Whole Year ,96.0,4474.0,46.6
+Madhya Pradesh,HOSHANGABAD,Sesamum,1999,Kharif     ,544.0,170.0,0.31
+Uttarakhand,UTTAR KASHI,Other  Rabi pulses,2002,Rabi       ,13.0,6.0,0.46
+Manipur,TAMENGLONG,Maize,2012,Kharif     ,1100.0,2250.0,2.05
+Tamil Nadu,KARUR,Tapioca,2004,Whole Year ,1752.0,72301.0,41.27
+Odisha,GAJAPATI,Sugarcane,2010,Winter     ,152.0,9705.0,63.85
+Karnataka,BENGALURU URBAN,Maize,2011,Summer     ,125.0,426.0,3.41
+Assam,BARPETA,Mesta,2000,Kharif     ,103.0,526.0,5.11
+Punjab,MANSA,Rapeseed &Mustard,2007,Rabi       ,2000.0,2000.0,1.0
+Tamil Nadu,KARUR,Other  Rabi pulses,2019,Rabi       ,1074.0,537.0,0.5
+Punjab,SANGRUR,Gram,2018,Rabi       ,100.0,100.0,1.0
+Rajasthan,SAWAI MADHOPUR,Onion,2012,Whole Year ,201.0,804.0,4.0
+Assam,DHEMAJI,Rice,2003,Autumn     ,12577.0,10108.0,0.8
+Maharashtra,YAVATMAL,Soyabean,2015,Kharif     ,293100.0,140900.0,0.48
+Andhra Pradesh,ADILABAD,Moong(Green Gram),2010,Rabi       ,2428.0,1255.0,0.52
+Gujarat,RAJKOT,Groundnut,2005,Kharif     ,381200.0,811100.0,2.13
+Madhya Pradesh,REWA,Urad,2018,Kharif     ,32824.0,19366.0,0.59
+Uttar Pradesh,KANPUR DEHAT,Maize,2010,Kharif     ,11763.0,14516.0,1.23
