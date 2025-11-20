@@ -31,3 +31,7 @@ This computational illustration supports the philosophical claims made in the ma
 - Ensure crop_raw.csv is in the same directory.
 - Run all cells.
 - (No external dependencies or environment files are required beyond standard Python scientific libraries.)
+
+### Citation
+###### Shakir, S. (2025). Popperian Uncertainty – Proof-of-Concept Analysis. GitHub. 
+####### DOI: 10.5281/zenodo.17663163
