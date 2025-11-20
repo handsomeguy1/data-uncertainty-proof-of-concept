@@ -33,5 +33,5 @@ This computational illustration supports the philosophical claims made in the ma
 - (No external dependencies or environment files are required beyond standard Python scientific libraries.)
 
 ### Citation
-###### Shakir, S. (2025). Popperian Uncertainty – Proof-of-Concept Analysis. GitHub. 
-####### DOI: 10.5281/zenodo.17663163
+##### Shakir, S. (2025). Popperian Uncertainty – Proof-of-Concept Analysis. GitHub. 
+##### DOI: 10.5281/zenodo.17663163
