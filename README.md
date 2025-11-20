@@ -26,8 +26,8 @@ This computational illustration supports the philosophical claims made in the ma
 - Users can replace this file with their own data by modifying a single path in the notebook.
 
 ### How to Run
-Clone or download this repository.
-Open Agriculture_proof_of_concept.ipynb in Jupyter Notebook or JupyterLab.
-Ensure crop_raw.csv is in the same directory.
-Run all cells.
-(No external dependencies or environment files are required beyond standard Python scientific libraries.)
+- Clone or download this repository.
+- Open Agriculture_proof_of_concept.ipynb in Jupyter Notebook or JupyterLab.
+- Ensure crop_raw.csv is in the same directory.
+- Run all cells.
+- (No external dependencies or environment files are required beyond standard Python scientific libraries.)
